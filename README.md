@@ -1,4 +1,4 @@
-# Redirect Manager (Sitecore Marketplace)
+# Redirect Manager (Sitecore Marketplace App)
 
 
 
